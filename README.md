@@ -3,7 +3,7 @@
 - 🌱 Atualmente Estou aprendendo as Linguagens/Actualmente estoy aprendiendo los idiomas/I am currently learning languages:
          <br>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="60" height="60"/>
-         <img loading="lazy" src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" width="60" height="60"/>
+         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="60" height="60"/>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80" height="60"/>
          <br>
      Já possuo Domínio sobre/ya tengo control sobre/I already have control over:
