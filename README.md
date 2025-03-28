@@ -17,7 +17,7 @@
          <br>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="80" height="70"/>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="80" height="70"/>
-         <img loading="lazy" src="https://media.licdn.com/dms/image/v2/D4D12AQEZVXWqTQ0fTg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689632891005?e=2147483647&v=beta&t=U2C7v9Ln_agpV2td-ceFC44JMURVoOoNxLZo_sGYMjM" width="80" height="100"/>
+         <img loading="lazy" src="https://media.licdn.com/dms/image/v2/D4D12AQEZVXWqTQ0fTg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689632891005?e=2147483647&v=beta&t=U2C7v9Ln_agpV2td-ceFC44JMURVoOoNxLZo_sGYMjM" width="80" height="150"/>
          
          
      
