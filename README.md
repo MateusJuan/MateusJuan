@@ -15,6 +15,7 @@
          <br>
 - Utilizo os frameworks:
          <br>
+         <img loading="lazy" src="https://images.seeklogo.com/logo-png/27/2/flask-logo-png_seeklogo-273085.png" width="65" height="65">
 
          
          
