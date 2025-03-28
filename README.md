@@ -15,7 +15,7 @@
          <br>
 - Utilizo os frameworks:
          <br>
-         <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dQvABiWzbE28OTPYjzElKw.png" width="80" height="70"/>
+         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="80" height="70"/>
          
          
          
