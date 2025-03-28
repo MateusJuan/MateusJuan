@@ -15,7 +15,7 @@
          <br>
 - Utilizo os frameworks:
          <br>
-         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="80" height="70"/>
+         <img loading="lazy" src="https://images.tpointtech.com/tutorial/flask/images/flask-tutorial.png" width="80" height="70"/>
          
          
          
