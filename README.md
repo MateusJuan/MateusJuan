@@ -15,7 +15,7 @@
          <br>
 - Utilizo os frameworks:
          <br>
-         <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dQvABiWzbE28OTPYjzElKw.png](https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" width="80" height="70"/>
+         <img loading="lazy" src="https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" width="80" height="70"/>
          
          
          
