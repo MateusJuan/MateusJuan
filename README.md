@@ -4,7 +4,7 @@
          <br>
          <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="60" height="60"/>
          <br>
-     Já possuo Domínio sobre/ya tengo control sobre/I already have control over:
+- Já possuo Domínio sobre/ya tengo control sobre/I already have control over:
          <br>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="65" height="65"/>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="55" height="65"/>
@@ -13,7 +13,7 @@
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
          <img loading="lazy" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" width="80" height="70"/>
          <br>
-  Utilizo os frameworks:
+- Utilizo os frameworks:
          <br>
 
          
