@@ -12,6 +12,9 @@
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="65" height="65"/>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
          <img loading="lazy" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" width="80" height="70"/>
+         <br>
+  Utilizo os frameworks:
+         <br>
 
          
          
