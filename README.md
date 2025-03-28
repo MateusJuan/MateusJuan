@@ -13,7 +13,7 @@
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
          <img loading="lazy" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" width="80" height="70"/>
          <br>
-- Utilizo os frameworks:
+- Utilizo os frameworks/Yo uso los frameworks/I use the frameworks:
          <br>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="100" height="70"/>
          <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="150" height="70"/>
