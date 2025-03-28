@@ -1,6 +1,6 @@
 - 👋🏽 Olá ,Me chamo Mateus Juan / Hola, mi nombre es Mateus Juan/Hello, my name is Mateus Juan 
 
-- 🌱 Atualmente Estou aprendendo as Linguagens/Actualmente estoy aprendiendo los idiomas/I am currently learning languages:
+- 🌱 Atualmente Estou aprendendo/Actualmente estoy aprendiendo/I am currently learning:
          <br>
          <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="60" height="60"/>
          <br>
