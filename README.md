@@ -33,6 +33,9 @@
              <a href="https://mateusjuan.github.io/Curriculo/" target="_blank">
                 <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Web-FFFFFF?style=for-the-badge&logo=Google&logoColor=red" target="_blank">
              </a>
+             <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
+             <img loading="lazy" target="_blank" src="https://engenharia360.com/wp-content/uploads/2015/04/destaque-curriculo-lattes-1024x578.png">
+             </a>
              </div>
    <div>
            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJuan&layout=compact&langs_count=7&theme=transparent">
