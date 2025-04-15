@@ -34,8 +34,8 @@
                 <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Web-FFFFFF?style=for-the-badge&logo=Google&logoColor=red" target="_blank">
              </a>
              <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
-                 <img loading="lazy" src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" target="_blank">
-             </a>
+                <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Lattes-FFFFFF?style=for-the-badge&logo=Google&logoColor=black" target="_blank">
+            </a>
              </div>
    <div>
            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJuan&layout=compact&langs_count=7&theme=transparent">
