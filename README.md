@@ -34,7 +34,7 @@
                 <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Web-FFFFFF?style=for-the-badge&logo=Google&logoColor=red" target="_blank">
              </a>
          <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
-             <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Lattes-FFFFFF?style=for-the-badge&logo=Google&logoColor=black" target="_blank">
+             <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Lattes-FFFFFF?style=for-the-badge" target="_blank">
          </a>
              </div>
    <div>
