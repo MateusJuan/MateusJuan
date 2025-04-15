@@ -33,9 +33,9 @@
              <a href="https://mateusjuan.github.io/Curriculo/" target="_blank">
                 <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Web-FFFFFF?style=for-the-badge&logo=Google&logoColor=red" target="_blank">
              </a>
-             <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
-                <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Lattes-FFFFFF?style=for-the-badge&logo=Google&logoColor=black" target="_blank">
-            </a>
+            <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Curr%C3%ADculo_Lattes_logo.png" width="90" height="30" style="background-color: white; padding: 5px; border-radius: 5px;" target="_blank">
+                  </a>
              </div>
    <div>
            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJuan&layout=compact&langs_count=7&theme=transparent">
