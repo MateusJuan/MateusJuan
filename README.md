@@ -36,10 +36,10 @@
          <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
              <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Lattes-FFFFFF?style=for-the-badge" target="_blank">
          </a>
-         <a href="https://linktr.ee/matewx_j">
-         <img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F66118531-linktree-circulo-logotipo-icone-linktree-aplicativo-editavel-transparente-fundo-premio-social-meios-de-comunicacao-projeto-para-digital-baixar&psig=AOvVaw2RUrTavEGzu2Ml9nrppBxR&ust=1756329885614000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjv4ui0qY8DFQAAAAAdAAAAABAE" target="_blank">
+         <a href="https://linktr.ee/matewx_j" target="_blank">
+           <img loading="lazy" src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
          </a>
-             </div>
+           </div>
    <div>
            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJuan&layout=compact&langs_count=7&theme=transparent">
              <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJuan&layout=compact&langs_count=7&theme=transparent"/>
@@ -48,4 +48,5 @@
          </div>
      
      ​    </div>
+
 
