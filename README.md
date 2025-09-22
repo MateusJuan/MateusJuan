@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente Estou aprendendo/Actualmente estoy aprendiendo/I am currently learning:
          <br>
-         <img loading="lazy" src="[https://cdn.worldvectorlogo.com/logos/react-native-1.svg](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png?hl=pt-br)" width="60" height="60"/>
+         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png?hl=pt-br" width="60" height="60"/>
          <br>
 - Já possuo Domínio sobre/ya tengo control sobre/I already have control over:
          <br>
@@ -49,6 +49,7 @@
          </div>
      
      ​    </div>
+
 
 
 
