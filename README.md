@@ -32,7 +32,7 @@
              <a href="https://www.linkedin.com/in/mateus-juan-09b9b2298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
                  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
              </a>
-             <a href="https://mateusjuan.github.io/Curriculo/" target="_blank">
+             <a href="https://curriculo-nine-taupe.vercel.app/" target="_blank">
                 <img loading="lazy" src="https://img.shields.io/badge/-Currículo%20Web-FFFFFF?style=for-the-badge&logo=Google&logoColor=red" target="_blank">
              </a>
          <a href="https://lattes.cnpq.br/2774132125455921" target="_blank">
@@ -50,6 +50,7 @@
          </div>
      
      ​    </div>
+
 
 
 
