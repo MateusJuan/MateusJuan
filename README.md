@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Mateus Juan — backend e mobile">
+<img src="https://raw.githubusercontent.com/MateusJuan/MateusJuan/main/assets/banner.svg" width="100%" alt="Mateus Juan — backend e mobile">
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=22&duration=2800&pause=1200&color=4ADE80&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+Backend;Apps+para+o+celular;Node.js+e+React+Native;Estudando+Kotlin" alt="Desenvolvedor Backend, apps para o celular, Node.js e React Native, estudando Kotlin">
 
@@ -8,9 +8,11 @@
 
 ## sobre
 
-Faço backend — Node.js, API e banco — e gosto de continuar o trabalho no celular, em React Native. Kotlin é o que estou vendo agora.
+Sou formado em Técnico em Desenvolvimento de Sistemas pelo IFPE de Jaboatão dos Guararapes, junto ao ensino médio, e hoje curso Engenharia da Computação no CIn-UFPE.
 
-Me formei técnico em Desenvolvimento de Sistemas, integrado ao ensino médio, pelo IFPE. Curso Engenharia da Computação no CIn-UFPE.
+Gosto de colocar a mão na massa e construir sistemas de ponta a ponta: Node.js no servidor e React Native no celular. Atualmente, o projeto que mais ocupa meu tempo é o N4VIX, um app de otimização de rotas pensado para facilitar o dia a dia de entregadores da Shopee.
+
+No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tecnologias e formas de transformar ideias em software.
 
 ## tecnologias
 
@@ -102,7 +104,7 @@ Aplicativo de roteirização de entregas para entregadores da Shopee, com mapa i
 
 <br><br>
 
-<img width="100%" src="./assets/snake.svg" alt="Snake Contribution">
+<img width="100%" src="https://raw.githubusercontent.com/MateusJuan/MateusJuan/main/assets/snake.svg" alt="Snake Contribution">
 
 </div>
 
