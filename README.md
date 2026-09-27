@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MateusJuan/MateusJuan/main/assets/banner.svg" width="100%" alt="Mateus Juan — backend e mobile">
+<img src="./assets/banner.png" width="100%" alt="Mateus Juan, backend e mobile">
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=22&duration=2800&pause=1200&color=4ADE80&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+Backend;Apps+para+o+celular;Node.js+e+React+Native;Estudando+Kotlin" alt="Desenvolvedor Backend, apps para o celular, Node.js e React Native, estudando Kotlin">
 
