@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Mateus Juan</title>
+  <desc id="desc">Desenvolvedor backend e mobile</desc>
+  <rect width="1200" height="280" fill="#0c0f0d"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#16301f"/>
+  <rect x="0" y="279" width="1200" height="1" fill="#16301f"/>
+  <rect x="72" y="52" width="2" height="176" fill="#4ade80"/>
+  <text x="104" y="138" fill="#f4f7f5" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, serif" font-size="60">Mateus Juan</text>
+  <text x="108" y="184" fill="#4ade80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">backend    ·    mobile</text>
+  <rect x="108" y="204" width="56" height="1.5" fill="#4ade80"/>
+</svg>

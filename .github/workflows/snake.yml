@@ -1,0 +1,28 @@
+name: snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: gerar snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MateusJuan
+          outputs: |
+            assets/snake.svg?palette=github-dark&color_snake=#4ade80&color_dots=#161b22,#052e16,#166534,#16a34a,#4ade80
+
+      - name: publicar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: atualiza a snake de contribuicoes
+          file_pattern: assets/snake.svg
