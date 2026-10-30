@@ -30,23 +30,12 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML"></a><br><sub>HTML</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS"></a><br><sub>CSS</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a><br><sub>JavaScript</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></a><br><sub>TypeScript</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=py" alt="Python"></a><br><sub>Python</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=java" alt="Java"></a><br><sub>Java</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a><br><sub>MySQL</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a><br><sub>PostgreSQL</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=cpp" alt="C++"></a><br><sub>C++</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a><br><sub>Arduino</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/ejs.svg" alt="EJS"></a><br><sub>EJS</sub></td>
-</tr>
-</table>
+<a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=py" alt="Python"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=java" alt="Java"></a><br>
+<a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=cpp" alt="C++"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a> <a href="#tecnologias"><img width="48" height="48" src="./assets/ejs.svg" alt="EJS"></a>
+
+<br><br>
+
+<sub>HTML · CSS · JavaScript · TypeScript · Python · Java · MySQL · PostgreSQL · C++ · Arduino · EJS</sub>
 
 </div>
 
@@ -54,29 +43,13 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a><br><sub>Node.js</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express"></a><br><sub>Express</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"></a><br><sub>NestJS</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=prisma" alt="Prisma"></a><br><sub>Prisma</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React"></a><br><sub>React</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a><br><sub>Next.js</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=flask" alt="Flask"></a><br><sub>Flask</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"></a><br><sub>Spring Boot</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"></a><br><sub>Tailwind</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a><br><sub>Bootstrap</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=electron" alt="Electron"></a><br><sub>Electron</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame"></a><br><sub>Pygame</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/expo.svg" alt="Expo"></a><br><sub>Expo</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/fastify.svg" alt="Fastify"></a><br><sub>Fastify</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/react-native.svg" alt="React Native"></a><br><sub>React Native</sub></td>
-</tr>
-</table>
+<a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=prisma" alt="Prisma"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a><br>
+<a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=flask" alt="Flask"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=electron" alt="Electron"></a> <a href="#tecnologias"><img width="48" height="48" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame"></a><br>
+<a href="#tecnologias"><img width="48" height="48" src="./assets/expo.svg" alt="Expo"></a> <a href="#tecnologias"><img width="48" height="48" src="./assets/fastify.svg" alt="Fastify"></a> <a href="#tecnologias"><img width="48" height="48" src="./assets/react-native.svg" alt="React Native"></a>
+
+<br><br>
+
+<sub>Node.js · Express · NestJS · Prisma · React · Next.js · Flask · Spring Boot · Tailwind · Bootstrap · Electron · Pygame · Expo · Fastify · React Native</sub>
 
 </div>
 
@@ -84,15 +57,11 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"></a><br><sub>Supabase</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker"></a><br><sub>Docker</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"></a><br><sub>Railway</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/expo-go.svg" alt="Expo Go"></a><br><sub>Expo Go</sub></td>
-<td align="center" width="96"><a href="#tecnologias"><img width="48" height="48" src="./assets/expo.svg" alt="EAS"></a><br><sub>EAS</sub></td>
-</tr>
-</table>
+<a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"></a> <a href="#tecnologias"><img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker"></a> <a href="#tecnologias"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"></a> <a href="#tecnologias"><img width="48" height="48" src="./assets/expo-go.svg" alt="Expo Go"></a> <a href="#tecnologias"><img width="48" height="48" src="./assets/expo.svg" alt="EAS"></a>
+
+<br><br>
+
+<sub>Supabase · Docker · Railway · Expo Go · EAS</sub>
 
 </div>
 
