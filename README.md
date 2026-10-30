@@ -10,7 +10,7 @@
 
 Sou formado em Técnico em Desenvolvimento de Sistemas pelo IFPE de Jaboatão dos Guararapes, junto ao ensino médio, e hoje curso Engenharia da Computação no CIn-UFPE.
 
-Gosto de colocar a mão na massa e construir sistemas de ponta a ponta: Node.js no servidor e React Native no celular. Atualmente, o projeto que mais ocupa meu tempo é o N4VIX, um app de otimização de rotas pensado para facilitar o dia a dia de entregadores da Shopee.
+Gosto de colocar a mão na massa e construir sistemas de ponta a ponta: Node.js no servidor e React Native no celular. No desenvolvimento mobile, uso Expo, Expo Go e EAS. Atualmente, o projeto que mais ocupa meu tempo é o N4VIX, um app de otimização de rotas pensado para facilitar o dia a dia de entregadores da Shopee.
 
 No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tecnologias e formas de transformar ideias em software.
 
@@ -31,10 +31,12 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,mysql,postgres,cpp,arduino&perline=8" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, MySQL, PostgreSQL, C++ e Arduino">
+<br>
+<img width="48" height="48" src="./assets/ejs.svg" alt="EJS" title="EJS">
 
 <br>
 
-<sub>HTML · CSS · JavaScript · TypeScript · EJS · Python · Java · MySQL · PostgreSQL · C++ para Arduino</sub>
+<sub>HTML · CSS · JavaScript · TypeScript · Python · Java · MySQL · PostgreSQL · C++ · Arduino · EJS</sub>
 
 </div>
 
@@ -42,15 +44,18 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,flask,spring,tailwind,bootstrap,electron&perline=5" alt="Node.js, Express, React, Next.js, Flask, Spring Boot, Tailwind, Bootstrap e Electron">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,react,nextjs,flask,spring,tailwind,bootstrap,electron&perline=5" alt="Node.js, Express, NestJS, Prisma, React, Next.js, Flask, Spring Boot, Tailwind, Bootstrap e Electron">
 
 <br>
 
 <img height="36" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame">
+<img width="48" height="48" src="./assets/expo.svg" alt="Expo" title="Expo">
+<img width="48" height="48" src="./assets/fastify.svg" alt="Fastify" title="Fastify">
+<img width="48" height="48" src="./assets/react-native.svg" alt="React Native" title="React Native">
 
 <br>
 
-<sub>Node.js · Express · React · React Native · Next.js · Flask · Spring Boot · Pygame · Tailwind · Bootstrap · Electron</sub>
+<sub>Node.js · Express · NestJS · Prisma · React · Next.js · Flask · Spring Boot · Tailwind · Bootstrap · Electron · Pygame · Expo · Fastify · React Native</sub>
 
 </div>
 
@@ -58,12 +63,14 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+<img src="https://skillicons.dev/icons?i=supabase,docker" alt="Supabase e Docker">
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway">
+<img width="48" height="48" src="./assets/expo-go.svg" alt="Expo Go" title="Expo Go">
+<img width="48" height="48" src="./assets/expo.svg" alt="EAS (Expo Application Services)" title="EAS (Expo Application Services)">
 
 <br>
 
-<sub>Supabase · Railway</sub>
+<sub>Supabase · Docker · Railway · Expo Go · EAS</sub>
 
 </div>
 
