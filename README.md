@@ -30,13 +30,23 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,mysql,postgres,cpp,arduino&perline=8" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, MySQL, PostgreSQL, C++ e Arduino">
-<br>
-<img width="48" height="48" src="./assets/ejs.svg" alt="EJS" title="EJS">
-
-<br>
-
-<sub>HTML · CSS · JavaScript · TypeScript · Python · Java · MySQL · PostgreSQL · C++ · Arduino · EJS</sub>
+<table>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML"><br><sub>HTML</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS"><br><sub>CSS</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br><sub>JavaScript</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"><br><sub>TypeScript</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=py" alt="Python"><br><sub>Python</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=java" alt="Java"><br><sub>Java</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"><br><sub>MySQL</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=cpp" alt="C++"><br><sub>C++</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=arduino" alt="Arduino"><br><sub>Arduino</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="./assets/ejs.svg" alt="EJS"><br><sub>EJS</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -44,18 +54,29 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,react,nextjs,flask,spring,tailwind,bootstrap,electron&perline=5" alt="Node.js, Express, NestJS, Prisma, React, Next.js, Flask, Spring Boot, Tailwind, Bootstrap e Electron">
-
-<br>
-
-<img height="36" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame">
-<img width="48" height="48" src="./assets/expo.svg" alt="Expo" title="Expo">
-<img width="48" height="48" src="./assets/fastify.svg" alt="Fastify" title="Fastify">
-<img width="48" height="48" src="./assets/react-native.svg" alt="React Native" title="React Native">
-
-<br>
-
-<sub>Node.js · Express · NestJS · Prisma · React · Next.js · Flask · Spring Boot · Tailwind · Bootstrap · Electron · Pygame · Expo · Fastify · React Native</sub>
+<table>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br><sub>Node.js</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express"><br><sub>Express</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"><br><sub>NestJS</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=prisma" alt="Prisma"><br><sub>Prisma</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React"><br><sub>React</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"><br><sub>Next.js</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=flask" alt="Flask"><br><sub>Flask</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"><br><sub>Spring Boot</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"><br><sub>Tailwind</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=electron" alt="Electron"><br><sub>Electron</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame"><br><sub>Pygame</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="./assets/expo.svg" alt="Expo"><br><sub>Expo</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="./assets/fastify.svg" alt="Fastify"><br><sub>Fastify</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="./assets/react-native.svg" alt="React Native"><br><sub>React Native</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -63,14 +84,15 @@ No momento, também estou aprendendo Kotlin e buscando sempre conhecer novas tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=supabase,docker" alt="Supabase e Docker">
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway">
-<img width="48" height="48" src="./assets/expo-go.svg" alt="Expo Go" title="Expo Go">
-<img width="48" height="48" src="./assets/expo.svg" alt="EAS (Expo Application Services)" title="EAS (Expo Application Services)">
-
-<br>
-
-<sub>Supabase · Docker · Railway · Expo Go · EAS</sub>
+<table>
+<tr>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"><br><sub>Supabase</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker"><br><sub>Docker</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"><br><sub>Railway</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="./assets/expo-go.svg" alt="Expo Go"><br><sub>Expo Go</sub></td>
+<td align="center" width="96"><img width="48" height="48" src="./assets/expo.svg" alt="EAS"><br><sub>EAS</sub></td>
+</tr>
+</table>
 
 </div>
 
